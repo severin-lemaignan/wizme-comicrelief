@@ -35,10 +35,10 @@ will be able to show and tell during their journey to asylum.
   deliver the project in locations where ArtRefuge UK is actively working with
   children refugees (namely, safe-houses on the British-French border [...]).
 - for many of these children, the hope is to reach the UK. They face a long and
-  difficult asylm seeking process
+  difficult asylum seeking process
 - critical parts of this process rely on the story of their life and journey
   that the children can narrate. Critically, the stories are repeatedly
-  dismissed by border enforcement forces as being fake (eg "you are only
+  dismissed by border enforcement forces as being fake (e.g. "you are only
   parroting what the smuggler told you to say!")
 - proving that their story is genuine is incredibly difficult for these
   children: not only they might have very little -- if any -- physical evidences
@@ -49,24 +49,44 @@ will be able to show and tell during their journey to asylum.
   had very limited need (and opportunity) to tell someone else the story of
   their daily lives in a rich and detailed manner -- something that is however
   expected from them when seeking asylum.
+- Besides, asylum seekers are usually constantly requested to prove and
+  demonstrate how genuine their story is, having to re-tell over and over again
+  the same (often traumatic) recount of their journey. Compound with stress and
+  exhaustion, this often lead to small inconsistencies in the narration, that
+  might be picked up to dismiss whole cases. In these situations, the balance of
+  powers is gravely titled in favour of the law enforcement agencies, with
+  little options for appeal.
+- the Refugee Convention is about assessing vulnerability of children if they
+  were to return to their home country. As such most of the interviews while
+  requesting asylum are about assessing/measuring weaknesses/vulnerabilities of
+  children, instead of their strength/resilience while they travelled the world.
+  This creates an additional trauma, compounded by the need to explain multiple
+  times these weaknesses over the course of the asylum seeking process.
 
 ### What changes do you expect to see as result of your proposed work?
 
 *3500 characters including spaces*
 
-- the primary purpose of the project is to provide direct **support to the refugee
-  children in their journey towards being granted asylum**.
+- the primary purpose of the project is to provide direct **support to the
+  refugee children in their journey towards being granted asylum**.
 - we want to achieve this by empowering the children: supporting them in
   building the story of their life and journey, and helping them in becoming the
   **confident and genuine storytellers** they need to be when narrating their
   story to institutions and government officers.
 - by telling her/his story to the robot, the robot will also create a **digital
-  record** of the journey, privately and securely stored in the robot, but
-  available to the child as a future evidence, testimony of her/his life
-  experience.
+  record** of the journey, privately and securely stored, but available to the
+  child as a future evidence, testimony of her/his life experience.
+- By creating and providing the refugees a durable, secure and tamper-proof
+  digital record of their lives, we aim at shifting the power to the asylum
+  seekers: they will have *one*, *opposable* multi-media record that they can
+  replay at will.
+- also, positive impact on **mental health**, at two levels: alleviate some of
+  the stress of the asylum seeking process (the digital record as an trustworthy
+  anchor); the peaceful, non-judgmental, culturally-sensitive interaction with
+  the robot as a source of comfort.
 - refugee children are asked to fit in a new identity, matching local
   norms/expectation, at the cost of the previous, original identity. This is a
-  source of suffering: importance of *securing identity*, as done by some
+  source of suffering: importance of **securing identity**, as done by some
   schools (example of school inviting parents of diverse background to come and
   cook home dishes at school, with different background every week). Using
   carefully designed multi-modal interaction, the robot will invite the child to
@@ -93,14 +113,16 @@ Section 2: Activities
 *3500 characters including spaces*
 
 WizMe is about creating a small, social, friendly robot to help refugee children
-to turn the experience of their journey across the world into a powerful story
-that they will be able to show and tell during their journey to asylum.
+to turn the complex experience of their journey across the world into a powerful story
+that they will be able to show and tell while seeking asylum.
 
-The project is deeply cross sector, involving in a tight partnership between
+The project is deeply cross sector, involving in a close partnership between
 technology (robotics), arts (mediated story-telling, sound design), interaction
 design and privacy experts.
 
 We will create a small social companion robot,
+
+non-verbal
 
 WizMe will develop and demonstrate the need for a global approach to
 social HRI with an ambitious, high-impact, socially meaningful
@@ -130,13 +152,24 @@ Importance of establishing long-term trust; relation to privacy.
 
 *2100 characters including spaces*
 
-
+- to some children, might be more approachable that adults (especially considering that the robot does not speak)
+- importance of creating a fully trusted environment, where the child knows he
+  is in physical and psychological security. The robot is designed to be
+  non-threatening, 'toy-like without being a toy',
+- making sure that the robot, and the digital record can *not* be used to 'spy'
+  or otherwise pressure the children, the privacy and user-control aspect of the
+  technology will be of uttermost importance. Specifically, the robot will be
+  designed in such a way that *only* the child can access her/his own personal
+  records, and under no condition external entities can access/harvest personal data
+  without full consent from the child. If deemed necessary, *plausible
+  deniability* will be implemented on the robot, allowing refugees to purposefully hide the
+  content of their records, plausibly denying they ever existed in the first place.
 
 ### Why do you think that this technology is the best means of addressing the need?
 
 *2100 characters including spaces*
 
-- to some children, might be more approachable that adults (especially considering that the robot does not speak)
+
 - high cultural awareness
 - create a digital record to be used by the children
 - additional support ('man power') for the charities
