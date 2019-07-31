@@ -9,7 +9,6 @@ secnumdepth: 2
 ---
 
 
-
 Section 1: Change
 =================
 
@@ -80,7 +79,7 @@ will be able to show and tell during their journey towards asylum.
   digital record of their lives, we aim at shifting the power to the asylum
   seekers: they will have *one*, *opposable* multi-media record that they can
   keep with them, and replay at will. The project team specifically includes a
-  lawyer, Katheryn Cronin (specialised in refugees rights) who will advise on
+  lawyer, Kathryn Cronin (specialised in refugees rights) who will advise on
   the legal aspects.
 - also, positive impact on **mental health** of the children, at two levels:
   alleviating some of the stress of the asylum seeking process (with the digital
@@ -282,7 +281,7 @@ senior researcher on sustainable and open hardware development; Dr. Katie Winkle
 a unique expertise in social robotics.
 
 The project also includes an advisory board, with invaluable institutional
-(Helen Beten, UK Refugee Council), as well as legal (Katheryn Cronin, Garden
+(Helen Beten, UK Refugee Council), as well as legal (Kathryn Cronin, Garden
 Court Chambers) expertise.
 
 
