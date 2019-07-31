@@ -1,5 +1,5 @@
 ---
-title: "WizMe: a robot guide in the journey to your story"
+title: "WizMe: A robot-guide for the journey to your story"
 geometry:
 - margin=2cm
 mainfont:
@@ -22,7 +22,7 @@ Section 1: Change
 WizMe is a cross-disciplinary project involving art and technology. It is about
 creating a small, social, friendly robot to help refugee children to turn the
 experience of their journey across the world into a powerful story that they
-will be able to show and tell during their journey to asylum.
+will be able to show and tell during their journey towards asylum.
 
 
 ### Please describe the people who would benefit and the problems they face in their lives
@@ -30,16 +30,18 @@ will be able to show and tell during their journey to asylum.
 *3500 characters including spaces*
 
 - the target group of this project are migrant children (8-18 years old), still
-  on the route, but relatively close to their destinations (for instance, close
+  on the route, but relatively close to their destination (for instance, close
   to the European border, or in transit inside the EU). We specifically plan to
   deliver the project in locations where ArtRefuge UK is actively working with
-  children refugees (namely, safe-houses on the British-French border [...]).
+  children refugees (namely, safe-houses on the British-French border [or?]).
+- the intervention is targeting children that stay a least a week in the camp or
+  safe-house.
 - for many of these children, the hope is to reach the UK. They face a long and
-  difficult asylum seeking process
+  difficult asylum seeking process.
 - critical parts of this process rely on the story of their life and journey
-  that the children can narrate. Critically, the stories are repeatedly
-  dismissed by border enforcement forces as being fake (e.g. "you are only
-  parroting what the smuggler told you to say!")
+  that the children will recount. Critically, the story has to be perceived as
+  *genuine* -- it is otherwise often dismissed by border enforcement forces as
+  being fake (e.g. "you are only parroting what the smuggler told you to say!")
 - proving that their story is genuine is incredibly difficult for these
   children: not only they might have very little -- if any -- physical evidences
   of their journey (typically, only pictures on their smartphones -- when the
@@ -49,13 +51,13 @@ will be able to show and tell during their journey to asylum.
   had very limited need (and opportunity) to tell someone else the story of
   their daily lives in a rich and detailed manner -- something that is however
   expected from them when seeking asylum.
-- Besides, asylum seekers are usually constantly requested to prove and
-  demonstrate how genuine their story is, having to re-tell over and over again
-  the same (often traumatic) recount of their journey. Compound with stress and
-  exhaustion, this often lead to small inconsistencies in the narration, that
-  might be picked up to dismiss whole cases. In these situations, the balance of
-  powers is gravely titled in favour of the law enforcement agencies, with
-  little options for appeal.
+- asylum seekers are requested to tell their story multiple times on their
+  pathway to asylum.  They will have to recount over and over again the same,
+  often traumatic, journey. Compounded with stress and exhaustion, this often lead
+  to small inconsistencies in the narration, that might be picked up to dismiss
+  the whole case. In these situations, the balance of powers is gravely titled in
+  favour of the law enforcement agencies, with little options for the children
+  to appeal.
 - the Refugee Convention is about assessing vulnerability of children if they
   were to return to their home country. As such most of the interviews while
   requesting asylum are about assessing/measuring weaknesses/vulnerabilities of
@@ -113,40 +115,58 @@ Section 2: Activities
 *3500 characters including spaces*
 
 WizMe is about creating a small, social, friendly robot to help refugee children
-to turn the complex experience of their journey across the world into a powerful story
-that they will be able to show and tell while seeking asylum.
+to turn the complex experience of their journey across the world into a powerful
+story that they will be able to show and tell while seeking asylum.
 
-The project is deeply cross sector, involving in a close partnership between
-technology (robotics), arts (mediated story-telling, sound design), interaction
-design and privacy experts.
+The robots (we plan to build a total of five units over the course of the
+project) will be used by field practitioners (primarily by ArtRefuge UK, with
+possible extension to other charities and NGOs) in refugee camps and safe-houses
+across Europe to support the children. Supported by the staff, the robot and the
+child engage into a non-threatening social interaction, in which the child is
+invited, little by little, to recount her/his journey and personal life. The
+duration and frequency of the interventions is flexible and would be tailored to
+each child's needs; over the course of one to three weeks, we would typically
+envision one 30-min long interaction every day.
 
-We will create a small social companion robot,
+Following the ArtRefuge approach, as well as the interactions created by Chloé
+Meineck on her previous Trove project, the child is invited to tell her/his
+story in many different way, using a variety of supports: narration, drawings,
+paintings, plasticine, small toy figures, etc. The robot records (pictures,
+videos, sounds) these representations, and also actively engage with the child,
+showing curiosity, non-judgmental emotional responses, and nudging the child to
+tell more, show more.
 
-non-verbal
+Critically, while the robot will be able to understand and record the textual
+transcription of the what the child tells (multi-lingual speech recognition),
+the robot itself will purposefully *not* speak, using instead *non-verbal*
+communication mechanisms (non-verbal utterances using sounds, gaze, joint
+attention, communicative motions, etc). In particular, the *soundscape* of the
+robot will be designed by Dave Meckin, an expert on sound design for vulnerable
+children. The purpose is to create an approachable, non-threatening,
+non-judgmental, *social* interaction with the child, and effectively establish
+the interaction into a trusted physical and emotional *safe-space* for the
+child.
 
-WizMe will develop and demonstrate the need for a global approach to
-social HRI with an ambitious, high-impact, socially meaningful
-application. Over the duration of the project, I will create a new
-companion robot to support young, isolated refugees in their
-asylum-seeking process.
+The work will initially focus on one-to-one interactions, and might evolve
+towards interactions with small groups (2-3) of children if deemed desirable
+after the first field deployments.
 
-The robots will be used by field practitioners (charities and NGO) in
-refugee camps and safe-houses across Europe to support the children by
-offering a one-to-one social interaction, in their language. The robots
-will be designed in close cooperation with designers and visual artists
-with exceptional knowledge of the refugees' realities, and one of the
-key role of the robots will be to collect the children's stories, as
-these stories are
+The robot design will put an strong emphasise on the practicalities of using
+technology in difficult environments like a refugee camp: the hardware will be
+rugged, modular (so that broken parts can easily be replaced), the robot's cover
+will be made out of silicon to protect the robot against water, dust, shocks.
+The robot will be entirely self-sufficient, not requiring any specific wifi or
+phone network to operate. We aim at having a typical battery autonomy of one
+full day.
 
-, designed from the ground-up with privacy and stringent ethical
-principles
-
-migrant children who might lack the otherwise needed support for a
-successful integration (different cultures and social norms; absence of
-local, culturally integrated, relatives; language barriers; etc.).
-
-Importance of establishing long-term trust; relation to privacy.
-
+Another critical aspect of the project relates to how the robot will store and
+protect the potentially highly sensitive data that is recorded during the
+interactions. Data will only be stored on the robot itself (no external cloud
+storage), and records will be strongly encrypted (ie, even if the robot is
+seized, the data will not be accessible). We will research secure, yet
+child-friendly, mechanisms to identify the child and ensure that only her/him
+can access her/his personal data. This will likely involve a combination of
+picture-based passwords and facial recognition.
 
 ### Why do you think this approach will be effective?
 
@@ -183,22 +203,24 @@ Importance of establishing long-term trust; relation to privacy.
 
 *2100 characters including spaces*
 
+The project is deeply cross sector, involving in a close partnership between
+technology (robotics), arts (mediated story-telling, sound design), interaction
+design and privacy experts.
 
-WizMe is an interdisciplinary endeavour, and requires several complementary
-expertises to be successful. We have assembled a strong and diverse team, with
-exceptional expertise both on working with vulnerable refugee populations, and
-on designing social robots. The team comprises of a charity with extensive
-experience using art in refugee camps to support refugee populations (ArtRefuge
-UK, led by Bobby Lloyd), an interaction designer working on memory collection
-and recollection with vulnerable children (Chloé Meineck), and a strong and
-interdisciplinary academic team, including Dr. Séverin Lemaignan (WizMe project
-leader, based at the Bristol Robotics Lab), who will bring 10+ years of field
-practice in designing and using social robots with children; Dr. Dave Meckin
-(University of the West of England), senior researcher in media technologies
-with a unique expertise working with vulnerable children; Dr. Jérémy Bonvoisin
-(University of Bath), senior researcher on sustainable and open hardware
-development; Dr. Katie Winkle (University of Bristol/University of the West of
-England), junior scientist with a unique expertise in social robotics.
+We have assembled a strong and diverse team, with exceptional expertise both on
+working with vulnerable refugee populations, and on designing social robots. The
+team comprises of a charity with extensive experience using art in refugee camps
+to support refugee populations (ArtRefuge UK, led by Bobby Lloyd), an
+interaction designer working on memory collection and recollection with
+vulnerable children (Chloé Meineck), and a strong and interdisciplinary academic
+team, including Dr. Séverin Lemaignan (WizMe project leader, based at the
+Bristol Robotics Lab), who will bring 10+ years of field practice in designing
+and using social robots with children; Dr. Dave Meckin (University of the West
+of England), senior researcher in media technologies with a unique expertise
+working on sound design for vulnerable children; Dr. Jérémy Bonvoisin (University of Bath),
+senior researcher on sustainable and open hardware development; Dr. Katie Winkle
+(University of Bristol/University of the West of England), junior scientist with
+a unique expertise in social robotics.
 
 The project also includes an advisory board, with invaluable institutional
 (Helen Beten, UK Refugee Council), as well as legal (Katheryn Cronin, Garden
@@ -207,7 +229,7 @@ Court Chambers) expertise.
 
 
 
-*The project has two main sides: the creation of the social robot, and its use
+<!-- *The project has two main sides: the creation of the social robot, and its use
 with the refugee children, in refugee camps and safe houses.
 
 Dr. Séverin Lemaignan, senior researcher at the Bristol Robotics Lab (part of
@@ -242,7 +264,7 @@ charity led by Bobby Lloyd. Since 2006, Art Refuge UK has been using art therapy
 to support refugee in refugee camps and safe houses. Since 2015, they have been
 particularly active on the French-British border, leading workshops in the
 Calais jungle, and then in safe houses around Calais. Art Refuge UK will be
-involved from the onset with the desig...*
+involved from the onset with the desig...* -->
 
 
 Section 3: Your organisation
@@ -289,4 +311,35 @@ Section 4: Partners details
 
 *2100 characters including spaces*
 
-*Presentation of ArtRefuge UK*
+**[Adapt/adjust rresentation of ArtRefuge UK]**
+
+
+Established in 2006, Art Refuge UK is a small, robust charity that works through
+art and art therapy with people who have been displaced due to political or
+religious persecution, armed conflict, trafficking, natural disaster and/or
+poverty.  
+
+Our team of artists and art therapists is equipped to deliver dynamic,
+culturally relevant and responsive programmes in a wide range of contexts across
+the UK, Europe and internationally, with a longstanding history in South Asia.
+We are skilled at adapting our work to support safe and imaginative spaces for
+refugees, including unaccompanied minors, both in transit and once they have
+reached a final destination. 
+
+Art Refuge UK's core ethos is based upon a participatory and collaborative
+practice informed by decades of individual and collective experience and skills
+in the visual arts, art therapy, trauma work and psychosocial approaches. Always
+working in close partnership with local and international government and
+non-governmental organisations, our work largely takes place through groups and
+we currently operate in London, Bristol and on the France-UK border at Calais.
+
+We engage in public discourse through our active use of social media as an
+advocacy platform as well as a place to celebrate people's creative agency;
+fundraising events; exhibitions; peer-reviewed and other academic writing,
+presentation of papers at conferences and delivery of arts-based psychosocial
+training programmes in the UK, Europe and internationally.
+
+Our work is underpinned by a strong team of Trustees with expertise in art
+therapy, asylum law, social work with unaccompanied minors, fundraising and
+communications.
+
