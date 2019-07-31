@@ -127,12 +127,12 @@ each child's needs; over the course of one to three weeks, we would typically
 envision one 30-min long interaction every day.
 
 Following the ArtRefuge approach, as well as the interactions created by Chloé
-Meineck on her previous Trove project, the child is invited to tell her/his
-story in many different way, using a variety of supports: narration, drawings,
-paintings, plasticine, small toy figures, etc. The robot records (pictures,
-videos, sounds) these representations, and also actively engage with the child,
-showing curiosity, non-judgmental emotional responses, and nudging the child to
-tell more, show more.
+Meineck on her previous Trove project <https://bit.ly/2ZlZL5W>, the child is
+invited to tell her/his story in many different way, using a variety of
+supports: narration, drawings, paintings, plasticine, small toy figures, etc.
+The robot records (pictures, videos, sounds) these representations, and also
+actively engage with the child, showing curiosity, non-judgmental emotional
+responses, and nudging the child to tell more, show more.
 
 Critically, while the robot will be able to understand and record the textual
 transcription of the what the child tells (multi-lingual speech recognition),
@@ -162,7 +162,33 @@ picture-based passwords and facial recognition.
 
 *2100 characters including spaces*
 
-- charities/NGOs working with refugees in camps are massively understaffed; bringing a small-sized robots to camps/safe-houses to record stories is an effective way of supporting these children
+Our approach is very novel, and untested in the context of refugees. The project
+is however grounded in the extensive field experience of the partners: we have
+strong evidence that art-based therapy is an effective, cross-cultural way of
+engaging vulnerable populations in general, and refugee children in particular.
+Such an approach has been developed and established for years by ArtRefuge UK,
+resulting in stories being retold, though e.g. exhibitions **[to be
+completed!]** <https://bit.ly/2Oumqfp>.  We also build on the evidence gathered
+in the Trove project regarding storytelling and recording **[to be completed, in
+particular Trove + refugees]**.  Finally, Séverin Lemaignan has 10+ years of
+experience creating and using social robots with children (see for instance his
+Cellulo <https://bit.ly/2KkNND8> and CoWriter <https://bit.ly/2K4ws2t>
+projects): a large amount of scientific evidence has shown how children socially
+engage with robots, and how robots can provide support, including in
+storytelling scenarios (for instance, the Tega project
+<https://bit.ly/2hnFczT>).  The combination of these complementary expertises
+put the project in a unique position to deliver impact for the target group.
+
+Effectiveness will be further ensured by relying on a participatory design
+methodology, involving all the stakeholders from the onset of the project; also
+including field testing early on in the project, relying on provisional,
+off-the-self, robot platforms (for instance, Softbank Nao). This user-centered
+approach is championed by Katie Winkle, who used and refined a similar approach
+with therapists in her past human-robot interaction projects.
+
+
+
+- charities/NGOs working with refugees in camps are massively understaffed; bringing a small-sized robots to camps/safe-houses to record stories is an effective way of supporting these children, also cost-effective.
 - children interacts easily -- sometimes, eagerly -- with robots (robots are novel, exciting, etc.): robots might foster interactions with children who would otherwise not want to.
 - the robot is a neutral, non-judgmental machine. To some children, might be
   more approachable that adults (especially considering that the robot does not
@@ -183,10 +209,12 @@ picture-based passwords and facial recognition.
 
 
 
-- compared to a simple app on a phone/tablet: social interaction (affective response/nudging/...) helping the children to engage into the storytelling and provide emotional support/comfort
+- compared to a simple app on a phone/tablet: social interaction (affective
+  response/nudging/...) helping the children to engage into the storytelling and
+  provide emotional support/comfort
 - part of the project is to create a 'private-by-design' device for vulnerable
-  children, something that does not exist to date. We will make sure
-  that the robot, and the digital records, can *not* be used to 'spy' or otherwise
+  children, something that does not exist to date. We will make sure that the
+  robot, and the digital records, can *not* be used to 'spy' or otherwise
   pressure the children; the privacy and user-control aspect of the technology
   will be of uttermost importance. Specifically, the robot will be designed in
   such a way that *only* the child can access her/his own personal records, and
@@ -196,12 +224,12 @@ picture-based passwords and facial recognition.
   content of their records, plausibly denying they ever existed in the first
   place.
 
-We are well aware of the difficulty of deploying technology like robots in
-difficult environments like a refugee camp. As such, the robot design will put
-an strong emphasise on the practicalities: the hardware will be rugged, modular
-(so that broken parts can easily be replaced), the robot's cover will be made
-out of silicon to protect the robot against water, dust, shocks.  The robot will
-be entirely self-sufficient, not requiring any specific wifi or phone network to
+We are fully aware of the challenge of deploying technology in difficult
+environments like a refugee camp. As such, the robot design will put an strong
+emphasise on the practicalities: the hardware will be rugged, modular (so that
+broken parts can easily be replaced), the robot's cover will be made out of
+silicon to protect the robot against water, dust, shocks.  The robot will be
+entirely self-sufficient, not requiring any specific WiFi or phone network to
 operate. We aim at having a typical battery autonomy of one full day.
 
 We plan to ensure long-term sustainability by: making the whole platform
