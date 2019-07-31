@@ -20,7 +20,7 @@ Section 1: Change
 *350 characters including spaces*
 
 WizMe is a cross-disciplinary project involving art and technology. It is about
-creating a small, social, friendly robot to help refugee children to turn the
+creating a small, social, friendly robot to help refugee children turn the
 experience of their journey across the world into a powerful story that they
 will be able to show and tell during their journey towards asylum.
 
@@ -29,7 +29,7 @@ will be able to show and tell during their journey towards asylum.
 
 *3500 characters including spaces*
 
-- the target group of this project are migrant children (8-18 years old), still
+- the target group of this project is migrant children (8-18 years old), still
   on the route, but relatively close to their destination (for instance, close
   to the European border, or in transit inside the EU). We specifically plan to
   deliver the project in locations where ArtRefuge UK is actively working with
@@ -38,32 +38,30 @@ will be able to show and tell during their journey towards asylum.
   safe-house.
 - for many of these children, the hope is to reach the UK. They face a long and
   difficult asylum seeking process.
-- critical parts of this process rely on the story of their life and journey
-  that the children will recount. Critically, the story has to be perceived as
+- critical parts of this process rely on the children being able to recount the story of their life and journey to date. Critically, the story has to be perceived as
   *genuine* -- it is otherwise often dismissed by border enforcement forces as
   being fake (e.g. "you are only parroting what the smuggler told you to say!")
 - proving that their story is genuine is incredibly difficult for these
-  children: not only they might have very little -- if any -- physical evidences
-  of their journey (typically, only pictures on their smartphones -- when the
-  smartphones themselves are not destroyed or confiscated by intermediaries or
+  children: they might have very little -- if any -- physical evidence
+  of their journey (typically, only pictures on their smartphones -- with
+  smartphones often being destroyed or confiscated by intermediaries or
   police forces), but also the children lack the skills required to tell a
-  story. They typically originate from small rural communities, and they have
-  had very limited need (and opportunity) to tell someone else the story of
-  their daily lives in a rich and detailed manner -- something that is however
-  expected from them when seeking asylum.
+  story. They typically originate from small rural communities, and have
+  had very limited need (or opportunity) to tell someone else the story of
+  their daily lives in the rich and detailed manner expected from them when seeking asylum.
 - asylum seekers are requested to tell their story multiple times on their
   pathway to asylum.  They will have to recount over and over again the same,
-  often traumatic, journey. Compounded with stress and exhaustion, this often lead
+  often traumatic, journey. Compounded with stress and exhaustion, this often leads
   to small inconsistencies in the narration, that might be picked up to dismiss
-  the whole case. In these situations, the balance of powers is gravely titled in
+  the whole case. In these situations, the balance of powers is gravely tilted in
   favour of the law enforcement agencies, with little options for the children
   to appeal.
-- the Refugee Convention is about assessing vulnerability of children if they
-  were to return to their home country. As such most of the interviews while
-  requesting asylum are about assessing/measuring weaknesses/vulnerabilities of
-  children, instead of their strength/resilience while they travelled the world.
-  This creates an additional trauma, compounded by the need to explain multiple
-  times these weaknesses over the course of the asylum seeking process.
+- obtaining the refugee status is strongly linked to whether the child is at
+  risk were he/she to return to their home country. Therefore, whilst requesting
+  asylum, children will be assessed for weakness and vulnerability (rather than
+  the strength/resilience they have shown on their journey). This process
+  creates additional trauma evoked from needing to re-tell and justify their
+  vulnerabilities and resultant need for asylum.
 
 ### What changes do you expect to see as result of your proposed work?
 
@@ -81,27 +79,31 @@ will be able to show and tell during their journey towards asylum.
 - By creating and providing the refugees a durable, secure and tamper-proof
   digital record of their lives, we aim at shifting the power to the asylum
   seekers: they will have *one*, *opposable* multi-media record that they can
-  replay at will.
-- also, positive impact on **mental health**, at two levels: alleviate some of
-  the stress of the asylum seeking process (the digital record as an trustworthy
-  anchor); the peaceful, non-judgmental, culturally-sensitive interaction with
-  the robot as a source of comfort.
+  keep with them, and replay at will. The project team specifically includes a
+  lawyer, Katheryn Cronin (specialised in refugees rights) who will advise on
+  the legal aspects.
+- also, positive impact on **mental health** of the children, at two levels:
+  alleviating some of the stress of the asylum seeking process (with the digital
+  record providing a trustworthy anchor); and providing comfort from the
+  peaceful, non-judgmental, culturally-sensitive interactions with the robot.
 - refugee children are asked to fit in a new identity, matching local
-  norms/expectation, at the cost of the previous, original identity. This is a
-  source of suffering, thus the importance of **securing its own identity**. Using
-  carefully designed multi-modal interaction, the robot will invite the child to
-  create her/his own narrative, using her/his cultural codes, **helping the
-  children to secure their cultural identity**. Besides, by creating a lasting
-  record of these story, the project contributes in build a **cultural legacy**
-  for the refugees, both personal (*the story of their own journey*) and global
-  (*testimonies of refugees' lives*)
+  norms/expectation, at the expense of their previous, original identity. This
+  is a source of anxiety and suffering. Using carefully designed multi-modal
+  interaction, the robot will invite the child to create her/his own narrative,
+  using her/his cultural codes, **helping the children to secure their cultural
+  identity**. Besides, by creating a lasting record of these story, the project
+  contributes in build a **cultural legacy** for the refugees, both personal
+  (*the story of their own journey*) and global (*testimonies of refugees'
+  lives*)
 - the project is also about collecting and recording the **individual stories of
-  unique individualities**, not just 'the refugees'. By recording, and later,
+  unique individuals**, not just 'the refugees'. By recording, and later,
   retelling those unique stories, the project will help the children to be aware
   and proud of their **own, individual identities**.
 - beyond the immediate role of the robot in supporting the children during the
   asylum application process, the project aims more broadly at projecting a
   **positive light** on these children, with their own complex, rich stories.
+  Properly disseminated, the collection of stories will play a critical role in
+  documenting refugees lives and reaching out to a broader audience.
 
 
 Section 2: Activities
@@ -135,7 +137,7 @@ actively engage with the child, showing curiosity, non-judgmental emotional
 responses, and nudging the child to tell more, show more.
 
 Critically, while the robot will be able to understand and record the textual
-transcription of the what the child tells (multi-lingual speech recognition),
+transcription of the what the child says (multi-lingual speech recognition),
 the robot itself is purposefully designed *not* to speak, using instead *non-verbal*
 communication mechanisms (non-verbal utterances using sounds, gaze, joint
 attention, expressive motions, etc). In particular, the *soundscape* of the
@@ -152,11 +154,17 @@ after the first field deployments.
 Another critical aspect of the project relates to how the robot will store and
 protect the potentially highly sensitive data that is recorded during the
 interactions. Data will only be stored on the robot itself (no external cloud
-storage), and records will be strongly encrypted (ie, even if the robot is
+storage), and records will be strongly encrypted (i.e. even if the robot is
 seized, the data will not be accessible). We will research secure, yet
 child-friendly, mechanisms to identify the child and ensure that only her/him
 can access her/his personal data. This will likely involve a combination of
 picture-based passwords and facial recognition.
+
+The created digital record will ultimately belong to the child. We will research
+and create practical means (paper copy, bracelet with a SD card,...) for the
+child to access this record when he needs it, and take it with her/him, even
+after she/he has left the camp or safe-house. The devised solution will have to
+ensure that no abuse or misuse of the record against the child is possible.
 
 ### Why do you think this approach will be effective?
 
@@ -188,30 +196,40 @@ with therapists in her past human-robot interaction projects.
 
 
 
-- charities/NGOs working with refugees in camps are massively understaffed; bringing a small-sized robots to camps/safe-houses to record stories is an effective way of supporting these children, also cost-effective.
-- children interacts easily -- sometimes, eagerly -- with robots (robots are novel, exciting, etc.): robots might foster interactions with children who would otherwise not want to.
-- the robot is a neutral, non-judgmental machine. To some children, might be
-  more approachable that adults (especially considering that the robot does not
-  speak)
-- importance of creating a fully trusted environment, where the child knows he
-  is in physical and psychological security. The robot is designed to be
-  non-threatening, 'toy-like without being a toy'
-- because current technology enables multi-lingual speech recognition, the robot
-  can also understand the children in their native language
-- create a digital record to be used by the children
-- additional support ('man power') for the charities
-- more 1-to-1 interactions with the children
-- possibility to create a system aware of cultural differences
-
 ### Why do you think that this technology is the best means of addressing the need?
 
 *2100 characters including spaces*
 
 
+- charities/NGOs working with refugees in camps are massively understaffed;
+  bringing small-sized autonomous robots to camps/safe-houses to record stories
+  is an effective way to provide additional support to these children, in a
+  cost-effective manner.
+- children typically interacts easily -- often, eagerly -- with robots (robots
+  are novel, exciting, etc.): the robots might be able to foster interactions
+  with children who would otherwise remain withdrawn.
+- the robot is a neutral, non-judgmental machine. To some children, the robot
+  might be more approachable than adults (especially considering that the robot
+  does not speak), and therefore better able to prompt their story-telling.
+- the robot is designed to be non-threatening and ‘toy-like without being a toy’
+  in order to maintain or even improve the child’s perception of being in a
+  safe, trustworthy environment 
+- the robots can provide additional support to significantly understaffed
+  charities, interacting with children when staff are busy or attending to many
+  children at once, as well as improving one-to-one interactions between
+  children and the charity workers
+- because current technology enables multi-lingual speech recognition, the robot
+  can also understand the children in their native language, an issue faced by
+  understaffed charities/NGOs who may not have enough interpreters on site.
+- possibility to create a system aware of cultural differences: the robot system
+  would employ technologies which offer e.g. multi-lingual support and can be
+  programmed with a database of cultural information such that the system might
+  offer more culturally aware and appropriate support than other interventions
 
 - compared to a simple app on a phone/tablet: social interaction (affective
   response/nudging/...) helping the children to engage into the storytelling and
   provide emotional support/comfort
+
 - part of the project is to create a 'private-by-design' device for vulnerable
   children, something that does not exist to date. We will make sure that the
   robot, and the digital records, can *not* be used to 'spy' or otherwise
@@ -244,7 +262,7 @@ hardware, will supervise this aspect of the project.
 
 *2100 characters including spaces*
 
-The project is deeply cross sector, involving in a close partnership between
+The project is deeply cross sector, involving a close partnership between
 technology (robotics), arts (mediated story-telling, sound design), interaction
 design and privacy experts.
 
@@ -338,9 +356,9 @@ The BRL, along with the department of Creative Technologies (Dr. Meckin) is in a
 unique position to deliver the project technology: the BRL hosts extensive
 facilities and expertise in robotic hardware development, including a large team
 of technicians, industrial-grade rapid prototyping machines, a 5-axis digital
-milling machine, as well as all the required equiment for mechtronic
-integration. The BRL has indeed a long track-record of designing and building
-new and original robots (from the BERT humanoid in the FP7 CHRIS project, to
+milling machine, as well as all the required equipment for mechatronic
+integration. The BRL has a long track-record of designing and building
+new and original robots (from the BERT humanoid, to
 micro-robotics \[in\...?\], to \[\...\]).  WizMe will directly benefit from this
 expertise, which will ensure a feasible and realistic technical implementation
 of the WizMe robots.
