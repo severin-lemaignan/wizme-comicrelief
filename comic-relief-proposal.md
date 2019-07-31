@@ -149,14 +149,6 @@ The work will initially focus on one-to-one interactions, and might evolve
 towards interactions with small groups (2-3) of children if deemed desirable
 after the first field deployments.
 
-The robot design will put an strong emphasise on the practicalities of using
-technology in difficult environments like a refugee camp: the hardware will be
-rugged, modular (so that broken parts can easily be replaced), the robot's cover
-will be made out of silicon to protect the robot against water, dust, shocks.
-The robot will be entirely self-sufficient, not requiring any specific wifi or
-phone network to operate. We aim at having a typical battery autonomy of one
-full day.
-
 Another critical aspect of the project relates to how the robot will store and
 protect the potentially highly sensitive data that is recorded during the
 interactions. Data will only be stored on the robot itself (no external cloud
@@ -204,6 +196,20 @@ picture-based passwords and facial recognition.
   content of their records, plausibly denying they ever existed in the first
   place.
 
+We are well aware of the difficulty of deploying technology like robots in
+difficult environments like a refugee camp. As such, the robot design will put
+an strong emphasise on the practicalities: the hardware will be rugged, modular
+(so that broken parts can easily be replaced), the robot's cover will be made
+out of silicon to protect the robot against water, dust, shocks.  The robot will
+be entirely self-sufficient, not requiring any specific wifi or phone network to
+operate. We aim at having a typical battery autonomy of one full day.
+
+We plan to ensure long-term sustainability by: making the whole platform
+open-hardware (so that it can be easily duplicated and modified); using a modular
+hardware design, making individual parts easily replaceable; using
+off-the-self components; using manufacturing process based on 3D printing, for
+added accessibility. Jérémy Bonvoisin, senior research in sustainable and open
+hardware, will supervise this aspect of the project.
 
 
 ### Who will be involved in delivering the work and what will they do?
