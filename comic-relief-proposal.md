@@ -88,19 +88,17 @@ will be able to show and tell during their journey towards asylum.
   the robot as a source of comfort.
 - refugee children are asked to fit in a new identity, matching local
   norms/expectation, at the cost of the previous, original identity. This is a
-  source of suffering: importance of **securing identity**, as done by some
-  schools (example of school inviting parents of diverse background to come and
-  cook home dishes at school, with different background every week). Using
+  source of suffering, thus the importance of **securing its own identity**. Using
   carefully designed multi-modal interaction, the robot will invite the child to
   create her/his own narrative, using her/his cultural codes, **helping the
   children to secure their cultural identity**. Besides, by creating a lasting
   record of these story, the project contributes in build a **cultural legacy**
   for the refugees, both personal (*the story of their own journey*) and global
-  (*slices of the refugees' lives*)
+  (*testimonies of refugees' lives*)
 - the project is also about collecting and recording the **individual stories of
   unique individualities**, not just 'the refugees'. By recording, and later,
   retelling those unique stories, the project will help the children to be aware
-  and proud of their **individual identities**.
+  and proud of their **own, individual identities**.
 - beyond the immediate role of the robot in supporting the children during the
   asylum application process, the project aims more broadly at projecting a
   **positive light** on these children, with their own complex, rich stories.
@@ -120,7 +118,7 @@ story that they will be able to show and tell while seeking asylum.
 
 The robots (we plan to build a total of five units over the course of the
 project) will be used by field practitioners (primarily by ArtRefuge UK, with
-possible extension to other charities and NGOs) in refugee camps and safe-houses
+possible extensions to other charities and NGOs) in refugee camps and safe-houses
 across Europe to support the children. Supported by the staff, the robot and the
 child engage into a non-threatening social interaction, in which the child is
 invited, little by little, to recount her/his journey and personal life. The
@@ -138,9 +136,9 @@ tell more, show more.
 
 Critically, while the robot will be able to understand and record the textual
 transcription of the what the child tells (multi-lingual speech recognition),
-the robot itself will purposefully *not* speak, using instead *non-verbal*
+the robot itself is purposefully designed *not* to speak, using instead *non-verbal*
 communication mechanisms (non-verbal utterances using sounds, gaze, joint
-attention, communicative motions, etc). In particular, the *soundscape* of the
+attention, expressive motions, etc). In particular, the *soundscape* of the
 robot will be designed by Dave Meckin, an expert on sound design for vulnerable
 children. The purpose is to create an approachable, non-threatening,
 non-judgmental, *social* interaction with the child, and effectively establish
@@ -172,30 +170,39 @@ picture-based passwords and facial recognition.
 
 *2100 characters including spaces*
 
-- to some children, might be more approachable that adults (especially considering that the robot does not speak)
+- charities/NGOs working with refugees in camps are massively understaffed; bringing a small-sized robots to camps/safe-houses to record stories is an effective way of supporting these children
+- children interacts easily -- sometimes, eagerly -- with robots (robots are novel, exciting, etc.): robots might foster interactions with children who would otherwise not want to.
+- the robot is a neutral, non-judgmental machine. To some children, might be
+  more approachable that adults (especially considering that the robot does not
+  speak)
 - importance of creating a fully trusted environment, where the child knows he
   is in physical and psychological security. The robot is designed to be
-  non-threatening, 'toy-like without being a toy',
-- making sure that the robot, and the digital record can *not* be used to 'spy'
-  or otherwise pressure the children, the privacy and user-control aspect of the
-  technology will be of uttermost importance. Specifically, the robot will be
-  designed in such a way that *only* the child can access her/his own personal
-  records, and under no condition external entities can access/harvest personal data
-  without full consent from the child. If deemed necessary, *plausible
-  deniability* will be implemented on the robot, allowing refugees to purposefully hide the
-  content of their records, plausibly denying they ever existed in the first place.
+  non-threatening, 'toy-like without being a toy'
+- because current technology enables multi-lingual speech recognition, the robot
+  can also understand the children in their native language
+- create a digital record to be used by the children
+- additional support ('man power') for the charities
+- more 1-to-1 interactions with the children
+- possibility to create a system aware of cultural differences
 
 ### Why do you think that this technology is the best means of addressing the need?
 
 *2100 characters including spaces*
 
 
-- high cultural awareness
-- create a digital record to be used by the children
-- additional support ('man power') for the charities
-- more 1-to-1 interactions with the children
-- might be perceived as non-judgmental compared to adults
-- compared to a simple app on a phone/tablet: social interaction (affective response/nudging/...) helping the children to engage into the storytelling
+
+- compared to a simple app on a phone/tablet: social interaction (affective response/nudging/...) helping the children to engage into the storytelling and provide emotional support/comfort
+- part of the project is to create a 'private-by-design' device for vulnerable
+  children, something that does not exist to date. We will make sure
+  that the robot, and the digital records, can *not* be used to 'spy' or otherwise
+  pressure the children; the privacy and user-control aspect of the technology
+  will be of uttermost importance. Specifically, the robot will be designed in
+  such a way that *only* the child can access her/his own personal records, and
+  under no condition external entities can access/harvest personal data without
+  full consent from the child. If deemed necessary, *plausible deniability* will
+  be implemented on the robot, allowing refugees to purposefully hide the
+  content of their records, plausibly denying they ever existed in the first
+  place.
 
 
 
