@@ -23,52 +23,41 @@ Section 1: Change
 WizMe is a cross-disciplinary project involving art and technology. It is about
 creating a small, social, friendly robot to help refugee children turn the
 experience of their journey across the world into a powerful story that they
-will be able to show and tell during their journey towards asylum.
+will be able to show and tell, helping them securing their own identity.
 
 
 ### Please describe the people who would benefit and the problems they face in their lives
 
-*3500 characters including spaces*
+*[DRAFT] (3500 characters including spaces)*
 
-- the target group of this project is migrant children (8-18 years old), still
-  on the route, but relatively close to their destination (for instance, close
-  to the European border, or in transit inside the EU). We specifically plan to
-  deliver the project in locations where ArtRefuge UK is actively working with
-  children refugees (namely, safe-houses on the British-French border [or?]).
-- the intervention is targeting children that stay a least a week in the camp or
-  safe-house.
-- for many of these children, the hope is to reach the UK. They face a long and
-  difficult asylum seeking process.
-- critical parts of this process rely on the children being able to recount the
-  story of their life and journey to date. Critically, the story has to be
-  perceived as *genuine* -- it is otherwise often dismissed by border
-  enforcement forces as being fake (e.g. "you are only parroting what the
-  smuggler told you to say!")
-- proving that their story is genuine is incredibly difficult for these
-  children: they might have very little -- if any -- physical evidence of their
+- the target group of this project is young refugees (12-20 years old), who
+  arrived at their final destination. They have typically already obtained
+  a refugee status.
+- We specifically plan to deliver the project in locations where ArtRefuge UK is actively working with young
+  refugees (primarily, Bristol).
+- the project aims at providing long-term support, both in terms of mental
+  health and well-being, through art-supported therapeutic thinking.
+- critical parts of this process rely on the young refugee to be able to secure
+  her/his identity in a foreign cultural group that does not know about their life
+  experience. It will often involve the child or young adult recounting the story of their life and journey
+  to date. This might touch traumatic memories, and hard-to-explain,
+  hard-to-verbalise experiences.
+- constructing their story is incredibly difficult for these
+  young refugees: they might have very little -- if any -- physical evidence of their
   journey (typically, only pictures on their smartphones -- with smartphones
   often being destroyed or confiscated by intermediaries or police forces), but
-  also the children lack the skills required to tell a story. They typically
+  also they might lack the skills required to tell a story. They typically
   originate from small rural communities, and have had very limited need (or
-  opportunity) to tell someone else the story of their daily lives in the rich
-  and detailed manner expected from them when seeking asylum.
-- asylum seekers are requested to tell their story multiple times on their
-  pathway to asylum.  They will have to recount over and over again the same,
-  often traumatic, journey. Compounded with stress and exhaustion, this often
-  leads to small inconsistencies in the narration, that might be picked up to
-  dismiss the whole case. In these situations, the balance of powers is gravely
-  tilted in favour of the law enforcement agencies, with little options for the
-  children to appeal.
-- obtaining the refugee status is strongly linked to whether the child is at
-  risk were he/she to return to their home country. Therefore, whilst requesting
-  asylum, children will be assessed for weakness and vulnerability (rather than
-  the strength/resilience they have shown on their journey). This process
-  creates additional trauma evoked from needing to re-tell and justify their
-  vulnerabilities and resultant need for asylum.
+  opportunity) to tell someone else the story of their daily lives in a rich
+  and vivid manner.
+- the young refugee has been, and will be, asked to tell her/his story multiple times on her/his
+  journey toward integration. She/he will have to recount over and over again the same,
+  often traumatic, experiences, causing repeated anxiety.
+
 
 ### What changes do you expect to see as result of your proposed work?
 
-*3500 characters including spaces*
+*[DRAFT] (3500 characters including spaces)*
 
 - the primary purpose of the project is to provide direct **support to the
   refugee children in their journey towards being granted asylum**.
