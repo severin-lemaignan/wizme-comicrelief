@@ -37,24 +37,26 @@ will be able to show and tell during their journey towards asylum.
   safe-house.
 - for many of these children, the hope is to reach the UK. They face a long and
   difficult asylum seeking process.
-- critical parts of this process rely on the children being able to recount the story of their life and journey to date. Critically, the story has to be perceived as
-  *genuine* -- it is otherwise often dismissed by border enforcement forces as
-  being fake (e.g. "you are only parroting what the smuggler told you to say!")
+- critical parts of this process rely on the children being able to recount the
+  story of their life and journey to date. Critically, the story has to be
+  perceived as *genuine* -- it is otherwise often dismissed by border
+  enforcement forces as being fake (e.g. "you are only parroting what the
+  smuggler told you to say!")
 - proving that their story is genuine is incredibly difficult for these
-  children: they might have very little -- if any -- physical evidence
-  of their journey (typically, only pictures on their smartphones -- with
-  smartphones often being destroyed or confiscated by intermediaries or
-  police forces), but also the children lack the skills required to tell a
-  story. They typically originate from small rural communities, and have
-  had very limited need (or opportunity) to tell someone else the story of
-  their daily lives in the rich and detailed manner expected from them when seeking asylum.
+  children: they might have very little -- if any -- physical evidence of their
+  journey (typically, only pictures on their smartphones -- with smartphones
+  often being destroyed or confiscated by intermediaries or police forces), but
+  also the children lack the skills required to tell a story. They typically
+  originate from small rural communities, and have had very limited need (or
+  opportunity) to tell someone else the story of their daily lives in the rich
+  and detailed manner expected from them when seeking asylum.
 - asylum seekers are requested to tell their story multiple times on their
   pathway to asylum.  They will have to recount over and over again the same,
-  often traumatic, journey. Compounded with stress and exhaustion, this often leads
-  to small inconsistencies in the narration, that might be picked up to dismiss
-  the whole case. In these situations, the balance of powers is gravely tilted in
-  favour of the law enforcement agencies, with little options for the children
-  to appeal.
+  often traumatic, journey. Compounded with stress and exhaustion, this often
+  leads to small inconsistencies in the narration, that might be picked up to
+  dismiss the whole case. In these situations, the balance of powers is gravely
+  tilted in favour of the law enforcement agencies, with little options for the
+  children to appeal.
 - obtaining the refugee status is strongly linked to whether the child is at
   risk were he/she to return to their home country. Therefore, whilst requesting
   asylum, children will be assessed for weakness and vulnerability (rather than
@@ -369,7 +371,7 @@ Section 4: Partners details
 
 *2100 characters including spaces*
 
-**[Adapt/adjust rresentation of ArtRefuge UK]**
+**[Adapt/adjust presentation of ArtRefuge UK]**
 
 
 Established in 2006, Art Refuge UK is a small, robust charity that works through
