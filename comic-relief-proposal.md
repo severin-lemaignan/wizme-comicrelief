@@ -3,7 +3,7 @@ title: "WizMe: A robot-guide for the journey to your story"
 geometry:
 - margin=2cm
 mainfont:
-- cantarell
+- Cantarell
 numbersections: true
 secnumdepth: 2
 ---
@@ -16,7 +16,9 @@ Section 1: Change
 
 ### Brief summary
 
-*350 characters including spaces*
+*(350 characters including spaces)*
+
+![](media/wizme+dolls.pdf)
 
 WizMe is a cross-disciplinary project involving art and technology. It is about
 creating a small, social, friendly robot to help refugee children turn the
